@@ -52,6 +52,7 @@ For more AI learning resources, consider exploring:
 - [OpenAI Documentation](https://platform.openai.com/docs) - OpenAI API guides and best practices
 - [Anthropic Documentation](https://docs.anthropic.com/en/home) - Anthropic API guides
 - [Google AI Studio](https://aistudio.google.com/)  Build with Gemini
+- [GenerativeAI For Beginners](https://learn.microsoft.com/en-us/shows/generative-ai-for-beginners/) - Structured learning path
 
 ---
 
